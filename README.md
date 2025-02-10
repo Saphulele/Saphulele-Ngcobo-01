@@ -15,7 +15,7 @@ The game will determine the winner or declare a draw when all spaces are filled.
 # Closing the Game
 You can close the window manually or press Ctrl + C in the terminal to stop execution.
 # Install Required Libraries
-First you have to install Python Extension from Visual Studio Code and its library Tkinter.
+You have to install Python Extension from Visual Studio Code and its library Tkinter.
 
 
    # INTERFACE BEFORE THE GAME BEGINS
