@@ -1,4 +1,4 @@
- **DESCRIPTION OF THE PROJECT**
+# DESCRIPTION OF THE PROJECT**
 
 Tic Tac Toe is a classic two-player strategy game played on a 3x3 grid. Players take turns marking a cell with either "X" or "O".
 The objective is to form a horizontal, vertical, or diagonal line of three matching symbols before the opponent does.
@@ -12,7 +12,7 @@ Users need to have Visual Studio from their Machine so that they can easily run 
 Visual Studio Code and click on play button from Visual Studio Code.
 The game window should open, allowing two players to take turns placing "X" and "O".
 The game will determine the winner or declare a draw when all spaces are filled.
-                                                              **Closing the Game**
+# Closing the Game**
 You can close the window manually or press Ctrl + C in the terminal to stop execution.
                                                               **Install Required Libraries**
 If you're using Tkinter (built-in for Python), no additional installation is needed.
