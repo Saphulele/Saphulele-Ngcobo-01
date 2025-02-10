@@ -6,10 +6,10 @@ If all cells are filled without a winner, the game ends in a draw. It is a simpl
 
  **INSTRUCTIONS ON HOW TO RUN THE PROJECT**
  
-Tic Tac Toe game in Python will be opened in GUI, since I have used Python framework. Below is a general guideline on how to run this project:
+Tic Tac Toe game in Python will be opened in GUI,I have used Python framework. Below is a general guideline on how to run this project:
                                                               **Gameplay**
 Users need to have Visual Studio from their Machine so that they can easily run this Game, once Installed user can copy the source code to their 
-Visual Studio and click on play button from Visual Studio.
+Visual Studio Code and click on play button from Visual Studio Code.
 The game window should open, allowing two players to take turns placing "X" and "O".
 The game will determine the winner or declare a draw when all spaces are filled.
                                                               **Closing the Game**
